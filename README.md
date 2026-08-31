@@ -1,11 +1,14 @@
-# Git Introduction
-
-# This repository is for ECE 528L sec.1 GitHub Workshop Part I.
+### This repository is for ECE 528L GitHub Workshop Part II.
 
 
-Purpose of lab\_0 : to practice basic Git and GitHub commands: cloning a repository, adding a file, committing changes, and pushing updates to GitHub.
 
-Author: Aolany Acosta - 202706965
-Professor: Aaron Nanas
-===
+**Author: Aolany Acosta - 202706965
+Professor: Aaron Nanas**
+---
+
+
+
+###### **In this part of the workshop, I practiced creating a new branch, editing files, committing changes, pushing a branch to GitHub, and merging the branch into main using a pull request.**
+
+
 
