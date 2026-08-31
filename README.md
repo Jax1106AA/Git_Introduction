@@ -1,4 +1,4 @@
-# \ Git Introduction
+# Git Introduction
 
 # This repository is for ECE 528L sec.1 GitHub Workshop Part I.
 
